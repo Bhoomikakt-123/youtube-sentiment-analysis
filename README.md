@@ -1,6 +1,4 @@
-# Here’s a sample `README.md` content for your project. It highlights the features, setup instructions, and usage of the YouTube Comments Analysis tool. Adjust it to better fit your project specifics.
 
----
 
 # YouTube Comments Analysis Tool
 
